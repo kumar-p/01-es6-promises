@@ -1,0 +1,8 @@
+
+// let primes = [];
+// setTimeout(() => {
+//   primes = generatePrimes(1000000);
+//   console.log('Long running task completed');
+//   console.log(primes.splice(0, 10));
+// }, 0);
+// console.log('We are not waiting for the long running task to complete');
